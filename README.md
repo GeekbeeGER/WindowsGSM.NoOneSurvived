@@ -1,5 +1,5 @@
 # WindowsGSM.NoOneSurvived
-🧩WindowsGSM plugin that provides Core Keeper Dedicated server support!
+🧩WindowsGSM plugin that provides No One Survived server support!
 
 
 # The Game
